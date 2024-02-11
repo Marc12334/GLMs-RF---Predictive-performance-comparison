@@ -1,1 +1,1 @@
-# GLMs-RF---Predictive-performance-comparison
+# GLM vs. RF - Comparison of predictive performance
