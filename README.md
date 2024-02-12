@@ -17,4 +17,4 @@
         URL: https://data.cityofnewyork.us/Transportation/Bicycle-Counts-for-East-River-Bridges-Historical-/gua4-p9wg/about_data
         Description: This dataset contains historical data on bicycle counts for East River bridges in New York City, which can be utilized to predict the volume of bicycle crossings based on time and weather conditions.
 
-When using the provided code, do not forget to adjust the filepath in section 1 of the Jupyternotebook based on your needs. 
+When using the provided code, do not forget to adjust the filepath in section 1 of the Jupyternotebook based on your needs. Also make sure, that all packages needed in section 0 for import are installed. 
