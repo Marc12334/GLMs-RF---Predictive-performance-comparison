@@ -15,4 +15,6 @@
     Bicycle Crossings Dataset
         Source: NYC Open Data
         URL: https://data.cityofnewyork.us/Transportation/Bicycle-Counts-for-East-River-Bridges-Historical-/gua4-p9wg/about_data
-        Description: This dataset contains historical data on bicycle counts for East River bridges in New York City, which can be utilized to predict the volume of bicycle crossings based on time of day, day of the week, weather conditions, and more.
+        Description: This dataset contains historical data on bicycle counts for East River bridges in New York City, which can be utilized to predict the volume of bicycle crossings based on time and weather conditions.
+
+When using the provided code, do not forget to adjust the filepath in section 1 of the Jupyternotebook based on your needs. 
